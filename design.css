@@ -1,0 +1,15 @@
+body {
+  background-color: darkcyan;
+}
+
+#result {
+  color: red;
+}
+
+img {
+  width: 120px;
+}
+
+div {
+  display: inline-block;
+}
